@@ -1,0 +1,247 @@
+{
+
+    "guild": "", 
+
+    "other": {
+
+    },
+
+    "custom": {
+
+    },
+
+    "embed": {
+        
+        "dot": "> ",
+        "errorColor": 16536660,
+        "color": 3224376
+
+    },
+    
+    "commission": {
+
+    },
+
+    "rates": {
+
+    },
+
+    "games": {
+
+    },
+
+    "complementary": {
+
+    },
+
+    "channels": {
+
+        "AntiNuke": {
+
+            "logs": ""
+
+        }
+
+    },
+
+    "roles": {
+
+        "AntiNuke": {
+
+            "quarantine": [],
+            "boost": ""
+
+        }
+
+    },
+
+    "buttons_menu": {
+        
+        "menuUser": {
+            "emoji": "",
+            "defaultTitle": "Выберите необходимого пользователя"
+        },
+
+        "menuRole": {
+            "emoji": "",
+            "defaultTitle": "Выберите необходимую роль"
+        },
+
+        "menuChannel": {
+            "emoji": "",
+            "defaultTitle": "Выберите необходимый канал"
+        },
+
+        "Left": {
+            "emoji": "◀️"
+        },
+
+        "Exit": {
+            "style": 2,
+            "emoji": "🗑️"
+        },
+
+        "Right": {
+            "style": 2,
+            "emoji": "▶️"
+        },
+
+        "Back": {
+            "style": 2
+        },
+
+        "Buy": {
+            "style": 1,
+            "emoji": "🛒"
+        },
+
+        "Default": {
+            "style": 2
+        }
+
+    },
+
+    "timeout": {
+
+    },
+
+    "emoji": {
+
+        "Plus": "+",
+        "Minus": "-",
+        
+        "Man": "♂️",
+        "Girl": "♀️",
+        
+        "Eagle": "🦅",
+        "Tails": "🥏",
+
+        "Type": "🛡️",
+        "Member": "👥",
+        "TextType": "📈",
+        "InviteType": "📨",
+        "Line": "<:Line_Left:1128764504977723502><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Center:1128764503262236843><:Line_Rigth:1128764508484153455>",
+        "TimeType": "📅",
+        "ChannelText": "",
+        "ChannelVoice": "",
+        "TypeAchievements": {
+            "Done": "🏆",
+            "UnDone": "🚫"
+        },
+        "MoneyType": "🏛️",
+        
+        "Start": "✅",
+
+        "Online": "🟢",
+        "Offline": "🔴",
+
+        "Dot": "",
+        "Role": "*️⃣",
+        "Room": "#️⃣",
+        "Love": "❤️",
+        "LoveRoom": "👅",
+
+        "Info": "ℹ️",
+        "Rules": "*️⃣",
+
+        "Invite": "📨",
+        "Reputation": "👍",
+        "Reputation+": "👍",
+        "Reputation-": "👎",
+        "Message": "✉️",
+        "Coin": "🪙",
+        
+        "Go": "↗️",
+        "Buy": "🛒",
+        "Pick": "▶️",
+        
+        "Give": "✅",
+        "Boost": "🚀",
+        "Postcard": "📧",
+
+        "True": "✅",
+        "False": "❌",
+        
+        "Count": {
+            "N0": "0️⃣",
+            "N1": "1️⃣",
+            "N2": "2️⃣",
+            "N3": "3️⃣",
+            "N4": "4️⃣",
+            "N5": "5️⃣",
+            "N6": "6️⃣",
+            "N7": "7️⃣",
+            "N8": "8️⃣",
+            "N9": "9️⃣",
+            "N10": "🔟"
+        },
+
+
+        "Nigth": "💫",
+        "Pause": "⏸️",
+        
+        "Win": "🏆",
+
+        "HighPriority": "<:HighPriority:1275935983510097971>",
+        "SavePriority": "<:SavePriority:1275933020431454208>",
+        "DefaultPriority": "<:DefaultPriority:1275933015956262983>",
+        "LowPriority": "<:LowPriority:1275935985569497204>",
+        
+        "HighRaiting": "<:high:1238107816611287070>",
+        "LowRaiting": "<:low:1238107818087944253>",
+        "MidlRaiting": "<:midl:1238145988103901295>",
+
+        "Null": "<:Null:1219768482561003610>",
+        "Autosbor": "🤖",
+        "Vote": "👍🏻", 
+        "VoteAll": "<:voteAll:1280620835689988238>", 
+        "HandOver": "🔄",
+        "Timer": "⏱️",
+        "Captain": "<:captain:1275946447212253194>",
+        "Participants": "<:participants:1183070860957986876>",
+        "Continue": "✅",
+        "Other": "<:other:1189657982435340348>",
+        "Kill": "<:kill:1289665326207733782>",
+        "Confirmation": "<:Confirmation:1292124028814884916>",
+        "NoConfirmation": "<:NoConfirmation:1292124031042195517>",
+        "NumbersOfMafia": {
+            "01": "<:player01:1292124033965625384>",
+            "02": "<:player02:1292124043515924531>",
+            "03": "<:player03:1292124045093109874>",
+            "04": "<:player04:1292124047102181396>",
+            "05": "<:player05:1292124049601724476>",
+            "06": "<:player06:1292124051166334996>",
+            "07": "<:player07:1292124052885995580>>",
+            "08": "<:player08:1292124054769106984>",
+            "09": "<:player09:1292124056803344415>",
+            "10": "<:player10:1292124059122925660>"
+        },
+
+
+        "Log": "💬",
+        "Link": "🖇️",
+        "Edit": "✏️",
+        "Left": "◀️",
+        "Delete": "🗑️",
+        "Right": "▶️",
+        "Repeat": "🔄",
+
+        "Announcement": "🔔",
+
+        "EditName": "✏️",
+        "EditLimit": "👥",
+        "Block": "🔒",
+        "UnBlock": "🔓",
+        "Lock": "📤",
+        "UnLock": "📥",
+        "UserMove": "🔄",
+        "UserBlock": "🙅‍♂️",
+        "UserUnBlock": "🙎‍♂️",
+        "UserKick": "🌬️",
+        "UserMute": "🔇",
+        "UserUnMute": "🔊",
+        "GiveOwner": "👑"
+
+    }
+    
+}
