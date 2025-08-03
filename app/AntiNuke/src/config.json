@@ -1,0 +1,35 @@
+{
+    "main": {
+        "prefix": "!",
+        "action": ["main"],
+        "jsonlist": ["../config.json", "../../../../bots.json", "../../../../guild.json", "../../../../appearance.json"],
+        "jsondb": {
+            "users": {
+                "type": "member",
+                "zeroing": false,
+                "path": "./../../db/AntiNuke/users.json",
+                "pathBackup": "./../../db/AntiNuke/BACKUP/users.json",
+                "scheme": {
+                    "Groups": [],
+                    "Roles ": [],
+                    "Warnings": 0,
+                    "Quarantine": false
+                }
+            },
+            "access": {
+                "type": "guild",
+                "zeroing": false,
+                "path": "./../../db/AntiNuke/access.json",
+                "pathBackup": "./../../db/AntiNuke/BACKUP/access.json",
+                "scheme": {
+                    "Groups": [],
+                    "Actions": [],
+                    "Defualt": false
+                }
+            }
+        }
+    },
+
+    "parameters": {
+    }
+}
